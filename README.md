@@ -31,5 +31,11 @@ Step 2: Run the application</br>
 Step 3: Visit the localhost from your browser</br>
 
 Step 4: Enjoy :)
+
+# Screenshorts
+![image](https://github.com/user-attachments/assets/0cc4b704-cae3-41de-96ef-f945a24d3fd1)
+![image](https://github.com/user-attachments/assets/89bc5877-afa2-4530-8875-e7885543237b)
+
+
  
 Bollemoni vishal nagraj	-	bollemonivishalnagraj@gmail.com<br/>
